@@ -15,8 +15,7 @@ Original|Render in new scene
 #### demo3  **Face reconstruction based on Deep Learning**
 input|output
 ---|:--:
-![](https://github.com/2013211543/myProjects/blob/master/demos/0114-2.gif)|![](https://github.com/2013211543/myProjects/blob/master/demos/0114.gif)
-
+![](https://github.com/2013211543/myProjects/blob/master/demos/yidi.jpg)|![](https://github.com/2013211543/myProjects/blob/master/demos/demo1.gif)
 
 
 
