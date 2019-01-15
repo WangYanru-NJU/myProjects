@@ -6,6 +6,18 @@ some demos of my projects
 ---|:--:|:---:|:---:
 ![](https://github.com/2013211543/myProjects/blob/master/demos/hushoushuang.gif)|![](https://github.com/2013211543/myProjects/blob/master/demos/kona2.gif)|![](https://github.com/2013211543/myProjects/blob/master/demos/dafo.gif)|![](https://github.com/2013211543/myProjects/blob/master/demos/duncan2.gif)
 
+**1. introduction**
+- From this picture we can know why we need texture mapping,as you can see,vertex-coloring model seems blurry,even if you take 16 times refinement,the texture-mapping model still seems much more clear
+
+
+<p align="center">
+    <img src="https://github.com/2013211543/myProjects/blob/master/demos/whytexturemapping.png" alt="Sample"  width="450" height="340">
+    <p align="center">
+        <em>🥇 vertex-coloring  🥈 16times refine vertex-coloring  🥉 texture-mapping</em>
+    </p>
+</p>
+
+
 ---
 # demo2  **Interactive Bullet Time**
 result|interact demo
