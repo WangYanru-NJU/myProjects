@@ -36,13 +36,11 @@ input|output
 ---|:--:
 ![](https://github.com/2013211543/myProjects/blob/master/demos/yidi.jpg)|![](https://github.com/2013211543/myProjects/blob/master/demos/demo1.gif)
 
-**1. introduction**
-- Different from the Bullet Time mentioned above,this is a dynamic time video which you can select any viewpoint they like in a view range,just slide the silder on the left side
-- The silder on the left side represents the viewpoint(space),the silder on the bottom represents time
 
 ---
 # demo5  **Face swap**
 ###just for fun
+
 original|reference1|reference2
 ---|:--:|:--:
  null|![](https://github.com/2013211543/myProjects/blob/master/demos/lyf.png)|![](https://github.com/2013211543/myProjects/blob/master/demos/tlp.jpg)
