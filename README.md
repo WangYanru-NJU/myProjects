@@ -88,7 +88,7 @@ original|reference1|reference2
  ![](https://github.com/2013211543/myProjects/blob/master/demos/demo3small.gif)|![](https://github.com/2013211543/myProjects/blob/master/demos/demo3-1small.gif)|![](https://github.com/2013211543/myProjects/blob/master/demos/demo3-2small.gif)
 
 ---
-# demo5  **3d real-people reasoning game**
+# demo6  **3d real-people reasoning game**
 
 ### just for fun
 
