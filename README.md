@@ -1,6 +1,8 @@
 #### myProjects
 some demos of my projects
 
+If you are interested in any part of the following demos,you can contact me by 1161068239@qq.com or wyr@smail.nju.edu.cn
+
 # demo1 **Texture mapping and rendering based on OpenGL**
 护手霜|手办1|大佛|手办2
 ---|:--:|:---:|:---:
