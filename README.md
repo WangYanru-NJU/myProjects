@@ -35,7 +35,12 @@ result|interact demo
 </p>
 
 - This system was built in Beijing for GUARDIAN ART CENTER[嘉德艺术中心](http://www.cguardianart.com/shows.php?id=25)
-![multi-camera system](https://github.com/2013211543/myProjects/blob/master/demos/大雅宝.png)
+<p align="center">
+    <img src="https://github.com/2013211543/myProjects/blob/master/demos/大雅宝.png" alt="Sample"  width="550" height="240">
+    <p align="center">
+        <em>嘉德艺术中心展会</em>
+    </p>
+</p>
 
 ---
 # demo3  **Free viewpoint of video**
