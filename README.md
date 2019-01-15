@@ -74,7 +74,7 @@ Original|Render in new scene
 
 input|output
 ---|:--:
-![](https://github.com/2013211543/myProjects/blob/master/demos/yidi.jpg)|![](https://github.com/2013211543/myProjects/blob/master/demos/demo1.gif)
+![](https://github.com/2013211543/myProjects/blob/master/demos/yidi.jpg)|![](https://github.com/2013211543/myProjects/blob/master/demos/demo1.gif)</center>
 
 
 ---
