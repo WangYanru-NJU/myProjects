@@ -20,7 +20,7 @@ If you are interested in any part of the following demos,you can contact me by 1
     </p>
 </p>
 
-- I designed a ''optimized-view texture mapping based on constrained normal''algorithm.Its main idea is chosing the optimized view for each face of the model,I also add Occlusion detection module to make it more robust.
+- I designed an ''optimized-view texture mapping based on constrained normal''algorithm.Its main idea is chosing the optimized view for each face of the model,I also add Occlusion detection module to make it more robust.
 ---
 # demo2  **Interactive Bullet Time**
 result|interact demo
@@ -87,3 +87,14 @@ original|reference1|reference2
  null|![](https://github.com/2013211543/myProjects/blob/master/demos/lyf.png)|![](https://github.com/2013211543/myProjects/blob/master/demos/tlp.jpg)
  ![](https://github.com/2013211543/myProjects/blob/master/demos/demo3small.gif)|![](https://github.com/2013211543/myProjects/blob/master/demos/demo3-1small.gif)|![](https://github.com/2013211543/myProjects/blob/master/demos/demo3-2small.gif)
 
+---
+# demo5  **3d real-people reasoning game**
+
+### just for fun
+
+**1. introduction**
+- Me and my teammates reconstructed ourselves using high precision human body acquisition system in our lab
+- Then we process our models through model mapping and bone binding 
+- At last, animated state machine was used to make the model move
+- We released android apk,you can download and take a try!
+[our game.apk](https://drive.google.com/file/d/1dW38sMQTCv5-DcXqo3xVKJqTBD8pbdVc/view?usp=sharing)
