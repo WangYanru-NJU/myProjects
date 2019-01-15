@@ -9,7 +9,7 @@ some demos of my projects
 
 **1. introduction**
 - From this picture we can know why we need texture mapping,as you can see,vertex-coloring model seems blurry,even if you take 16 times refinement,the texture-mapping model still seems much more clear.So texture mapping can reserve finer details.
-- I designed a ''optimized-view texture mapping based on constrained normal''algorithm.Its main idea is chosing the optimized view for each face of the model,I also add Occlusion detection module to make it more robust.
+
 
 <p align="center">
     <img src="https://github.com/2013211543/myProjects/blob/master/demos/whytexturemapping.png" alt="Sample"  width="450" height="340">
@@ -18,7 +18,7 @@ some demos of my projects
     </p>
 </p>
 
-
+- I designed a ''optimized-view texture mapping based on constrained normal''algorithm.Its main idea is chosing the optimized view for each face of the model,I also add Occlusion detection module to make it more robust.
 ---
 # demo2  **Interactive Bullet Time**
 result|interact demo
