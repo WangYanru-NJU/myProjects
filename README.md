@@ -27,7 +27,13 @@ result|interact demo
 
 **1. introduction**
 - Build multi-camera system,then capture photos Synchronously,rectify photos,and render them in interactive panel finally
-![multi-camera system](https://github.com/2013211543/myProjects/blob/master/demos/12.jpg)
+<p align="center">
+    <img src="https://github.com/2013211543/myProjects/blob/master/demos/12.jpg" alt="Sample"  width="450" height="340">
+    <p align="center">
+        <em>multi-camera system</em>
+    </p>
+</p>
+
 - This system was built in Beijing for GUARDIAN ART CENTER[嘉德艺术中心](http://www.cguardianart.com/shows.php?id=25)
 ![multi-camera system](https://github.com/2013211543/myProjects/blob/master/demos/大雅宝.png)
 
