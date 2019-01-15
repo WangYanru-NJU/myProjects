@@ -30,7 +30,8 @@ Original|Render in new scene
 
 ---
 # demo4  **Face reconstruction based on Deep Learning**
-##reconstruction from single photo
+
+## reconstruction from single photo
 - you can just take one front photo as input,without 1s you can get your 3d face
 
 input|output
@@ -40,7 +41,8 @@ input|output
 
 ---
 # demo5  **Face swap**
-###just for fun
+
+### just for fun
 
 original|reference1|reference2
 ---|:--:|:--:
