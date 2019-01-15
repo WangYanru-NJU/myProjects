@@ -6,9 +6,10 @@ some demos of my projects
 ---|:--:|:---:|:---:
 ![](https://github.com/2013211543/myProjects/blob/master/demos/hushoushuang.gif)|![](https://github.com/2013211543/myProjects/blob/master/demos/kona2.gif)|![](https://github.com/2013211543/myProjects/blob/master/demos/dafo.gif)|![](https://github.com/2013211543/myProjects/blob/master/demos/duncan2.gif)
 
-**1. introduction**
-- From this picture we can know why we need texture mapping,as you can see,vertex-coloring model seems blurry,even if you take 16 times refinement,the texture-mapping model still seems much more clear
 
+**1. introduction**
+- From this picture we can know why we need texture mapping,as you can see,vertex-coloring model seems blurry,even if you take 16 times refinement,the texture-mapping model still seems much more clear.So texture mapping can reserve finer details.
+- I designed a ''optimized-view texture mapping based on constrained normal''algorithm.Its main idea is chosing the optimized view for each face of the model,I also add Occlusion detection module to make it more robust.
 
 <p align="center">
     <img src="https://github.com/2013211543/myProjects/blob/master/demos/whytexturemapping.png" alt="Sample"  width="450" height="340">
@@ -25,7 +26,7 @@ result|interact demo
 ![](https://github.com/2013211543/myProjects/blob/master/demos/0115-2.gif)|![](https://github.com/2013211543/myProjects/blob/master/demos/0115.gif)
 
 **1. introduction**
-- Build multi-camera system,then capture photos Synchronously,rectfy photos,and render them in interactive panel finally
+- Build multi-camera system,then capture photos Synchronously,rectify photos,and render them in interactive panel finally
 ![multi-camera system](https://github.com/2013211543/myProjects/blob/master/demos/12.jpg)
 - This system was built in Beijing for GUARDIAN ART CENTER[嘉德艺术中心](http://www.cguardianart.com/shows.php?id=25)
 ![multi-camera system](https://github.com/2013211543/myProjects/blob/master/demos/大雅宝.png)
