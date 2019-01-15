@@ -46,6 +46,9 @@ result|interact demo
 
 ---
 # demo3  **Free viewpoint of video**
+
+## indoor mini scene
+
 Original|Render in new scene
 ---|:--:
 ![](https://github.com/2013211543/myProjects/blob/master/demos/0114-2.gif)|![](https://github.com/2013211543/myProjects/blob/master/demos/0114.gif)
@@ -53,6 +56,15 @@ Original|Render in new scene
 **1. introduction**
 - Different from the Bullet Time mentioned above,this is a dynamic time video which you can select any viewpoint they like in a view range,just slide the silder on the left side
 - The silder on the left side represents the viewpoint(space),the silder on the bottom represents time
+
+## indoor larger scene
+<p align="center">
+    <img src="https://github.com/2013211543/myProjects/blob/master/demos/0115-4.gif" alt="" width="600" height="340">
+    <p align="center">
+        <em>basketball team training scene</em>
+    </p>
+</p>
+
 
 ---
 # demo4  **Face reconstruction based on Deep Learning**
