@@ -98,3 +98,7 @@ original|reference1|reference2
 - At last, animated state machine was used to make the model move
 - We released android apk,you can download and take a try!
 [our game.apk](https://drive.google.com/file/d/1dW38sMQTCv5-DcXqo3xVKJqTBD8pbdVc/view?usp=sharing)
+
+capture|reconstruction|remapping&rigging|animation
+---|:--:|:---:|:---:
+![](https://github.com/2013211543/myProjects/blob/master/demos/caiji.png)|![](https://github.com/2013211543/myProjects/blob/master/demos/reconstruction2.png)|![](https://github.com/2013211543/myProjects/blob/master/demos/3d.png)|![](https://github.com/2013211543/myProjects/blob/master/demos/3d.gif)
