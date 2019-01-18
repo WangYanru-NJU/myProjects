@@ -10,7 +10,7 @@ If you are interested in any part of the following demos,you can contact me by 1
 
 
 **1. introduction**
-- From this picture we can know why we need texture mapping,as you can see,vertex-coloring model seems blurry,even if you take 16 times refinement,the texture-mapping model still seems much more clear.So texture mapping can reserve finer details.
+- From this picture we can know why we need texture mapping,vertex-coloring model seems blurry,even if you take 16 times refinement,the texture-mapping model still seems much more clear.So texture mapping can reserve finer details.
 
 
 <p align="center">
@@ -20,7 +20,7 @@ If you are interested in any part of the following demos,you can contact me by 1
     </p>
 </p>
 
-- I designed an ''optimized-view texture mapping based on constrained normal''algorithm.Its main idea is chosing the optimized view for each face of the model,I also add Occlusion detection module to make it more robust.
+- I designed an ''optimized-view texture mapping based on constrained normal''algorithm.Its main idea is chosing the optimized view for each face of the model,occlusion detection module is also added to make it more robust.
 ---
 # demo2  **Interactive Bullet Time**
 result|interact demo
@@ -54,7 +54,7 @@ Original|Render in new scene
 ![](https://github.com/2013211543/myProjects/blob/master/demos/0114-2.gif)|![](https://github.com/2013211543/myProjects/blob/master/demos/0114.gif)
 
 **1. introduction**
-- Different from the Bullet Time mentioned above,this is a dynamic time video which you can select any viewpoint they like in a view range,just slide the silder on the left side
+- Different from the Bullet Time mentioned above,this is a dynamic time video which you can select any viewpoint you like in a view range,just clik and drag the silder on the left side
 - The silder on the left side represents the viewpoint(space),the silder on the bottom represents time
 
 ## indoor larger scene
@@ -95,7 +95,7 @@ original|reference1|reference2
 **1. introduction**
 - Me and my teammates reconstructed ourselves using high precision human body acquisition system in our lab
 - Then we process our models through model mapping and bone binding 
-- At last, animated state machine was used to make the model move
+- At last, animated state machine was used to make the model perform some actions
 - We released android apk,you can download and take a try!
 [our game.apk](https://drive.google.com/file/d/1dW38sMQTCv5-DcXqo3xVKJqTBD8pbdVc/view?usp=sharing)
 
