@@ -3,26 +3,8 @@ some demos of my projects
 
 If you are interested in any part of the following demos,you can contact me by 1161068239@qq.com or wyr@smail.nju.edu.cn
 
-# demo1 **Texture mapping and rendering based on OpenGL**
-护手霜|手办1|大佛|手办2
----|:--:|:---:|:---:
-![](https://github.com/2013211543/myProjects/blob/master/demos/hushoushuang.gif)|![](https://github.com/2013211543/myProjects/blob/master/demos/kona2.gif)|![](https://github.com/2013211543/myProjects/blob/master/demos/dafo.gif)|![](https://github.com/2013211543/myProjects/blob/master/demos/duncan2.gif)
 
-
-**1. introduction**
-- From this picture we can know why we need texture mapping,vertex-coloring model seems blurry,even if you take 16 times refinement,the texture-mapping model still seems much more clear.So texture mapping can reserve finer details.
-
-
-<p align="center">
-    <img src="https://github.com/2013211543/myProjects/blob/master/demos/whytexturemapping.png" alt="Sample"  width="450" height="340">
-    <p align="center">
-        <em>🥇 vertex-coloring  🥈 16times refine vertex-coloring  🥉 texture-mapping</em>
-    </p>
-</p>
-
-- I designed an ''optimized-view texture mapping based on constrained normal''algorithm.Its main idea is chosing the optimized view for each face of the model,occlusion detection module is also added to make it more robust.
----
-# demo2  **Interactive Bullet Time**
+# demo1  **Interactive Bullet Time**
 result|interact demo
 ---|:--:
 ![](https://github.com/2013211543/myProjects/blob/master/demos/0115-2.gif)|![](https://github.com/2013211543/myProjects/blob/master/demos/0115.gif)
@@ -45,7 +27,7 @@ result|interact demo
 </p>
 
 ---
-# demo3  **Free viewpoint of video**
+# demo2  **Free viewpoint of video**
 
 ## indoor mini scene
 
@@ -67,7 +49,7 @@ Original|Render in new scene
 
 
 ---
-# demo4  **Face reconstruction based on Deep Learning**
+# demo3  **Face reconstruction based on Deep Learning**
 
 ## reconstruction from single photo
 - you can just take one front photo as input,without 1s you can get your 3d face
@@ -78,7 +60,7 @@ input|output
 
 
 ---
-# demo5  **Face swap**
+# demo4  **Face swap**
 
 ### just for fun
 
@@ -88,7 +70,7 @@ original|reference1|reference2
  ![](https://github.com/2013211543/myProjects/blob/master/demos/demo3small.gif)|![](https://github.com/2013211543/myProjects/blob/master/demos/demo3-1small.gif)|![](https://github.com/2013211543/myProjects/blob/master/demos/demo3-2small.gif)
 
 ---
-# demo6  **3d real-people reasoning game**
+# demo5  **3d real-people reasoning game**
 
 ### just for fun
 
@@ -102,3 +84,24 @@ original|reference1|reference2
 capture|reconstruction|remapping&rigging|animation
 ---|:--:|:---:|:---:
 ![](https://github.com/2013211543/myProjects/blob/master/demos/caiji.png)|![](https://github.com/2013211543/myProjects/blob/master/demos/reconstruction2.png)|![](https://github.com/2013211543/myProjects/blob/master/demos/3d.png)|![](https://github.com/2013211543/myProjects/blob/master/template.gif)![](https://github.com/2013211543/myProjects/blob/master/demos/3d.gif)
+
+
+# demo6 **Texture mapping and rendering based on OpenGL**
+护手霜|手办1|大佛|手办2
+---|:--:|:---:|:---:
+![](https://github.com/2013211543/myProjects/blob/master/demos/hushoushuang.gif)|![](https://github.com/2013211543/myProjects/blob/master/demos/kona2.gif)|![](https://github.com/2013211543/myProjects/blob/master/demos/dafo.gif)|![](https://github.com/2013211543/myProjects/blob/master/demos/duncan2.gif)
+
+
+**1. introduction**
+- From this picture we can know why we need texture mapping,vertex-coloring model seems blurry,even if you take 16 times refinement,the texture-mapping model still seems much more clear.So texture mapping can reserve finer details.
+
+
+<p align="center">
+    <img src="https://github.com/2013211543/myProjects/blob/master/demos/whytexturemapping.png" alt="Sample"  width="450" height="340">
+    <p align="center">
+        <em>🥇 vertex-coloring  🥈 16times refine vertex-coloring  🥉 texture-mapping</em>
+    </p>
+</p>
+
+- I designed an ''optimized-view texture mapping based on constrained normal''algorithm.Its main idea is chosing the optimized view for each face of the model,occlusion detection module is also added to make it more robust.
+---
